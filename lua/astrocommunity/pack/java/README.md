@@ -17,7 +17,7 @@ This plugin pack does the following:
 ## Note
 
 We require that the root folder of your projects include one of these files/folders: `.git`, `mvnw`, `gradlew`
-
+e
 ## Tips
 
 `jdtls` requires Java 11+ but can be used to develop on any Java version. If you develop using different Java runtimes, you can set the runtimes you have available in the settings of `jdtls`.
